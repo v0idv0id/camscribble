@@ -1,0 +1,1 @@
+java -cp ".;webcam-capture.jar;bridj.jar;slf4j-api.jar;slf4j-simple-2.0.9.jar" WebcamOverlayApp
